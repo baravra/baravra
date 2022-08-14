@@ -1,4 +1,4 @@
-# Oii bem vindos ao meu perfil do GitHub.
+# Oiii bem vindos ao meu perfil do GitHub.
 
 ## _Me chamo Bárbara Leão e é aqui que está grande parte dos meus projetos_
 
