@@ -2,8 +2,9 @@
 
 ## _Me chamo Bárbara Leão e é aqui que está grande parte dos meus projetos_
 
-- Atualmente sou estagiária em desenvolvimento utilizando PHP como linguagem principal
-- Sou aluna do terceiro ano do COTEMIG e é aonde faço meu ensino técnico de desenvolvimento mobile
+- Atualmente sou programadora junior em uma empresa de desenvolvimento de softwares juridicos usando principalmente PHP e C#
+- Me formei ano passado no COTEMIG onde fiz meu ensino técnico de desenvolvimento mobile
+- Hoje estou cursando o segundo periodo do curso de Análise e Desenvolvimento de Sistemas
 
 ## Experiência em       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width = "70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  width = "70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"   width = "70px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width = "70px"/>
